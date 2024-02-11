@@ -10,7 +10,7 @@ The progress table tracks the progress of learners in various programming langua
 1. <b>user_id:</b> Unique identifier for each user.
 2. <b>email_domain:</b> Email domain of the user.
 3. <b>country:</b> User's country.
-4. <b>postal:,/b> User's postal code.
+4. <b>postal:</b> User's postal code.
 5. <b>mobile_app:</b> Indicates whether the user uses the mobile app (true/false).
 6. <b>sign_up_at:</b> Date and time when the user signed up.
    
