@@ -7,7 +7,7 @@ The progress table tracks the progress of learners in various programming langua
 
 ## Tables
 <b>users table</b>
-1. <b>user_id:</b> Unique identifier for each user.
+1. <b>user_id:</b> <p>Unique identifier for each user.</p>
 2. email_domain: Email domain of the user.
 3. country: User's country.
 4. postal: User's postal code.
