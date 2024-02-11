@@ -27,7 +27,7 @@ If learners opt to work on this project outside of Codecademy, they can download
 
 ## Tasks:
 1. Top 25 Schools (.edu Domains)
-   * Identify the top 25 schools based on .edu email domains.
+   - Identify the top 25 schools based on .edu email domains.
 3. .edu Learners in New York
    + Determine the number of .edu learners located in New York.
 5. Mobile App Users
