@@ -1,9 +1,9 @@
 # Codecademy Learners Mockup Data
 
 ## Project Overview
-This project involves analyzing mockup Codecademy learner data from two tables: users and progress. <br>
+<p>This project involves analyzing mockup Codecademy learner data from two tables: users and progress. <br>
 The users table contains information about learners, including user_id, email_domain, country, postal, mobile_app, and sign_up_at. <br>
-The progress table tracks the progress of learners in various programming languages.
+The progress table tracks the progress of learners in various programming languages.</p>p?
 
 ### Tables
 <b>users table</b>
@@ -22,10 +22,10 @@ The progress table tracks the progress of learners in various programming langua
 5. learn_javascript: Progress in learning JavaScript.
 6. learn_java: Progress in learning Java.
    
-#### Setup Instructions:
+### Setup Instructions:
 If learners opt to work on this project outside of Codecademy, they can download the necessary files. The setup process involves using SQLite and running SQL commands from a terminal or using DB Browser, a desktop application. Detailed instructions are provided in the SQLite setup guide and the article on running SQL commands in DB Browser.
 
-<b>Tasks</b>
+### Tasks:
 1. Top 25 Schools (.edu Domains)
    + Identify the top 25 schools based on .edu email domains.
 3. .edu Learners in New York
