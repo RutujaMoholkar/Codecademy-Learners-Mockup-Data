@@ -3,7 +3,7 @@
 ## Project Overview
 <p>This project involves analyzing mockup Codecademy learner data from two tables: users and progress. <br>
 The users table contains information about learners, including user_id, email_domain, country, postal, mobile_app, and sign_up_at. <br>
-The progress table tracks the progress of learners in various programming languages.</p>p?
+The progress table tracks the progress of learners in various programming languages.</p>
 
 ### Tables
 <b>users table</b>
